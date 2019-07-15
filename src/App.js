@@ -9,13 +9,13 @@ class App extends Component {
             <div className="bodyApp">
                 <div className="divApp">
                     <div className="divSummer">
-                        <Link to="/summer" className="lienSummer"><img src={require("./img/summer.jpg")} alt="summer"/></Link>
+                        <Link to="/summer" className="lienSummer">Summer</Link>
                     </div>
                     <div className="divWinter">
-                        <Link to="/winter" className="lienWinter"><img src={require("./img/winter.jpg")} alt="winter"/></Link>
+                        <Link to="/winter" className="lienWinter">Winter</Link>
                     </div>
                     <div className="divAntiquite">
-                        <Link to="/antiquite" className="lienAntiquite"><img src={require("./img/summer.jpg")} alt="antiquite"/></Link>
+                        <Link to="/antiquity" className="lienAntiquity">Antiquity</Link>
                     </div>
                 </div>
             </div>
