@@ -1,33 +1,106 @@
-.App {
-  text-align: center;
+.bodyApp {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: rgb(206, 195, 195);
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.divSummer {
+    position: absolute;
+    height: 50vh;
+    width: 60vw;
+    top: 2%;
+    left: 2%;
+    background-image: url(./img/summer.jpg);
+    background-size: cover;
+    background-position: center center;
+    z-index: 2;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.divWinter {
+    position: absolute;
+    height: 55vh;
+    width: 55vw;
+    top: 43%;
+    left: 43%;
+    background-image: url(./img/winter.jpg);
+    background-size: cover;
+    background-position: center center;
 }
 
-.App-link {
-  color: #61dafb;
+.divAntiquite {
+    position: absolute;
+    height: 35vh;
+    width: 35vw;
+    top: 58%;
+    left: 4%;
+    background-image: url(./img/antiquity.jpg);
+    background-size: cover;
+    background-position: center center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.anneaux {
+    position: absolute;
+    height: 30vh;
+    width: 27vw;
+    top: 5%;
+    left: 68%;
+    background-image: url(./img/anneaux.jpg);
+    background-size: cover;
+    background-position: center center;
+    z-index: 3;
+}
+
+.linkAccueilSummer {
+    position: relative;
+    color: white;
+    top: 70%;
+    left: 85%;
+    font-size: 2em;
+}
+
+.linkAccueilWinter {
+    position: relative;
+    color: white;
+    top: 10%;
+    left: 85%;
+    font-size: 2em;
+}
+
+.linkAccueilAntiquity {
+    position: relative;
+    color: white;
+    top: 50%;
+    left: 60%;
+    font-size: 2em;
+}
+
+@media screen and (max-width: 800px) {
+    .divApp {
+        display: flex;
+        flex-direction: column;
+    }
+    .divSummer {
+        position: relative;
+        height: 40vh;
+        width: 100vw;
+        top: 0;
+        left: 0;
+    }
+    .divWinter {
+        position: relative;
+        height: 40vh;
+        width: 100vw;
+        top: 0;
+        left: 0;
+    }
+    .divAntiquite {
+        position: relative;
+        height: 20vh;
+        width: 100vw;
+        top: 0;
+        left: 0;
+    }
+    .anneaux {
+        display: none;
+    }
 }

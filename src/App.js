@@ -8,15 +8,22 @@ class App extends Component {
         return (
             <div className="bodyApp">
                 <div className="divApp">
-                    <div className="divSummer">
-                        <Link to="/summer" className="lienSummer">Summer</Link>
-                    </div>
-                    <div className="divWinter">
-                        <Link to="/winter" className="lienWinter">Winter</Link>
-                    </div>
-                    <div className="divAntiquite">
-                        <Link to="/antiquity" className="lienAntiquity">Antiquity</Link>
-                    </div>
+                    <Link to="/summer" className="lienSummer">
+                        <div className="divSummer">
+                            <span className="linkAccueilSummer">Eté</span>
+                        </div>
+                    </Link>
+                    <Link to="/winter" className="lienWinter">
+                        <div className="divWinter">
+                        <span className="linkAccueilWinter">Hiver</span>
+                        </div>
+                    </Link>
+                    <Link to="/antiquity" className="lienAntiquity">
+                        <div className="divAntiquite">
+                        <span className="linkAccueilAntiquity">Antiquité</span>
+                        </div>
+                    </Link>
+                    <div className="anneaux"></div>
                 </div>
             </div>
         )
