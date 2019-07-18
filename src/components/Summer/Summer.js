@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Header from '../Header'
 import { Link } from 'react-router-dom'
+import './Summer.css'
 
 class Summer extends Component {
   
@@ -8,7 +9,7 @@ class Summer extends Component {
         return (
             <div>
                 <Header />
-                <div>
+                <div className="bodySummer">
                     <Link to="/Is">I</Link>
                     <Link to="/IIs">II</Link>
                     <Link to="/IIIs">III</Link>

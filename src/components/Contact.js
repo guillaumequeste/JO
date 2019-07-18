@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from './Header'
+import './Contact.css'
 
 class Contact extends Component {
   
@@ -7,8 +8,11 @@ class Contact extends Component {
         return (
             <div>
                 <Header />
-                <div>
-                    <h1>Contact</h1>
+                <div className="bodyContact">
+                    <div className="contact">
+                        <h3 className="fontContact">guillaume.queste@laposte.net</h3>
+                        <h3 className="fontContact">http://www.guillaumequeste.fr</h3>
+                    </div>
                 </div>
             </div>
         )
