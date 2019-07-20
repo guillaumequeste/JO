@@ -45,6 +45,8 @@ import Iw from './components/Winter/Iw'
 import IIw from './components/Winter/IIw'
 import IIIw from './components/Winter/IIIw'
 import IVw from './components/Winter/IVw'
+import IVaw from './components/Winter/IVaw'
+import IVbw from './components/Winter/IVbw'
 import Vw from './components/Winter/Vw'
 import VIw from './components/Winter/VIw'
 import VIIw from './components/Winter/VIIw'
@@ -117,6 +119,8 @@ const Root = () => (
             <Route path='/IIw' component={IIw}/>
             <Route path='/IIIw' component={IIIw}/>
             <Route path='/IVw' component={IVw}/>
+            <Route path='/IVaw' component={IVaw}/>
+            <Route path='/IVbw' component={IVbw}/>
             <Route path='/Vw' component={Vw}/>
             <Route path='/VIw' component={VIw}/>
             <Route path='/VIIw' component={VIIw}/>

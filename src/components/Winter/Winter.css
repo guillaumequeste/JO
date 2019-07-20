@@ -1,0 +1,430 @@
+.bodyWinter {
+    min-height: 91vh;
+}
+
+.ski {
+    opacity: 0.35;
+    width: 100vw;
+    height: 91vh;
+}
+
+.Ih {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 2%;
+}
+
+.IIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 11%;
+}
+
+.IIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 20%;
+}
+
+.IVh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 29%;
+}
+
+.IVah {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 38%;
+}
+
+.IVbh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 47%;
+}
+
+.Vh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 56%;
+}
+
+.VIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 65%;
+}
+
+.VIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 74%;
+}
+
+.VIIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 83%;
+}
+
+.IXh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 2%;
+}
+
+.Xh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 11%;
+}
+
+.XIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 20%;
+}
+
+.XIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 29%;
+}
+
+.XIIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 38%;
+}
+
+.XIVh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 47%;
+}
+
+.XVh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 56%;
+}
+
+.XVIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 65%;
+}
+
+.XVIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 74%;
+}
+
+.XVIIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 83%;
+}
+
+.XIXh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 2%;
+}
+
+.XXh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 11%;
+}
+
+.XXIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 20%;
+}
+
+.XXIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 29%;
+}
+
+.XXIIIh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 38%;
+}
+
+.XXIVh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 47%;
+}
+
+.XXVh {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 56%;
+}
+
+.affiche:hover {
+    transform: scale(2);
+    transition-duration: 0.5s;
+    z-index: 3;
+}
+
+@media screen and (max-width: 800px) {
+    .ski {
+        display: none;
+    }
+    .bodyWinter {
+        background-color: rgb(207, 207, 207);
+        height: 5250px;
+    }
+    .Ih {
+        width: 100px;
+        height: 150px;
+        top: 80px;
+        left: 20%;
+        width: 40%;
+    }
+    .IIh {
+        width: 100px;
+        height: 150px;
+        top: 280px;
+        left: 20%;
+        width: 40%;
+    }
+    .IIIh {
+        width: 100px;
+        height: 150px;
+        top: 480px;
+        left: 20%;
+        width: 40%;
+    }
+    .IVh {
+        width: 100px;
+        height: 150px;
+        top: 680px;
+        left: 20%;
+        width: 40%;
+    }
+    .IVah {
+        width: 100px;
+        height: 150px;
+        top: 880px;
+        left: 20%;
+        width: 40%;
+    }
+    .IVbh {
+        width: 100px;
+        height: 150px;
+        top: 1080px;
+        left: 20%;
+        width: 40%;
+    }
+    .Vh {
+        width: 100px;
+        height: 150px;
+        top: 1280px;
+        left: 20%;
+        width: 40%;
+    }
+    .VIh {
+        width: 100px;
+        height: 150px;
+        top: 1480px;
+        left: 20%;
+        width: 40%;
+    }
+    .VIIh {
+        width: 100px;
+        height: 150px;
+        top: 1680px;
+        left: 20%;
+        width: 40%;
+    }
+    .VIIIh {
+        width: 100px;
+        height: 150px;
+        top: 1880px;
+        left: 20%;
+        width: 40%;
+    }
+    .IXh {
+        width: 100px;
+        height: 150px;
+        top: 2080px;
+        left: 20%;
+        width: 40%;
+    }
+    .Xh {
+        width: 100px;
+        height: 150px;
+        top: 2280px;
+        left: 20%;
+        width: 40%;
+    }
+    .XIh {
+        width: 100px;
+        height: 150px;
+        top: 2480px;
+        left: 20%;
+        width: 40%;
+    }
+    .XIIh {
+        width: 100px;
+        height: 150px;
+        top: 2680px;
+        left: 20%;
+        width: 40%;
+    }
+    .XIIIh {
+        width: 100px;
+        height: 150px;
+        top: 2880px;
+        left: 20%;
+        width: 40%;
+    }
+    .XIVh {
+        width: 100px;
+        height: 150px;
+        top: 3080px;
+        left: 20%;
+        width: 40%;
+    }
+    .XVh {
+        width: 100px;
+        height: 150px;
+        top: 3280px;
+        left: 20%;
+        width: 40%;
+    }
+    .XVIh {
+        width: 100px;
+        height: 150px;
+        top: 3480px;
+        left: 20%;
+        width: 40%;
+    }
+    .XVIIh {
+        width: 100px;
+        height: 150px;
+        top: 3680px;
+        left: 20%;
+        width: 40%;
+    }
+    .XVIIIh {
+        width: 100px;
+        height: 150px;
+        top: 3880px;
+        left: 20%;
+        width: 40%;
+    }
+    .XIXh {
+        width: 100px;
+        height: 150px;
+        top: 4080px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXh {
+        width: 100px;
+        height: 150px;
+        top: 4280px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXIh {
+        width: 100px;
+        height: 150px;
+        top: 4480px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXIIh {
+        width: 100px;
+        height: 150px;
+        top: 4480px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXIIIh {
+        width: 100px;
+        height: 150px;
+        top: 4680px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXIVh {
+        width: 100px;
+        height: 150px;
+        top: 4880px;
+        left: 20%;
+        width: 40%;
+    }
+    .XXVh {
+        width: 100px;
+        height: 150px;
+        top: 5080px;
+        left: 20%;
+        width: 40%;
+    }
+}
