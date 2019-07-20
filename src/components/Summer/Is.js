@@ -29,19 +29,19 @@ class Is extends Component {
                     <p>- équitation : concours d'équitation</p>
                     <p>- jeux athlétiques : lawn tennis ; cricket</p>
                 </div>
-                <div className="img2"></div>
+                <div className="img2I"></div>
                 <div className="info2">
                     <div className="info2suite">
                         <p>L'athlétisme est à la fois le sport le plus international avec neuf délégations représentées mais aussi celui qui attire le plus de participants. Les Américains dominent largement ces épreuves en gagnant neuf des douze épreuves. Aucun record du monde n'est cependant battu durant les quatre jours de compétition, en partie à cause de la courbure aiguë de la piste mais aussi parce que nombre des meilleurs athlètes du moment n'ont pas fait le déplacement à Athènes.</p>
                     </div>
                 </div>
-                <div className="img3"></div>
+                <div className="img3I"></div>
                 <div className="info3">
                     <div className="info3suite">
                         <p>L'escrime au Zappeion rapporte trois médailles à la délégation française.</p>
                     </div>
                 </div>
-                <div className="img4"></div>
+                <div className="img4I"></div>
             </div>
         )
     }

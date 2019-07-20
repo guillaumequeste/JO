@@ -1,9 +1,9 @@
-.bodyIs {
+.bodyXVIIs {
     height: 100%;
     margin: 0;
 }
 
-.img1I {
+.img1 {
     opacity: 0.65;
     width: 100vw;
     height: 91vh;
@@ -37,59 +37,51 @@
     text-align: justify;
 }
 
-.img2I {
+.img2XVII {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/Ie/ceremonie_ouverture.jpg);
+    background-image: url(../../img/summer/XVIIe/formose.webp);
     min-height: 650px;
 }
 
 .info2 {
-    position: relative;
-}
-
-.info2suite {
     color: #ddd;
     background-color: #282E34;
     text-align: center;
-    padding: 50px 80px;
+    padding: 20px 80px;
     text-align: justify;
 }
 
-.img3I {
+.img3XVII {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/Ie/100m.jpg);
-    min-height: 650px;
+    background-image: url(../../img/summer/XVIIe/ali.webp);
+    min-height: 100vh;
 }
 
 .info3 {
-    position: relative;
-}
-
-.info3suite {
     color: #ddd;
     background-color: #282E34;
     text-align: center;
-    padding: 50px 80px;
+    padding: 20px 80px;
     text-align: justify;
 }
 
-.img4I {
+.img4XVII {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/Ie/escrime.jpg);
+    background-image: url(../../img/summer/XVIIe/bikila.webp);
     min-height: 100vh;
 }

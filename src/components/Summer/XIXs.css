@@ -1,0 +1,49 @@
+.bodyXIXs {
+    height: 100%;
+    margin: 0;
+}
+
+.img1 {
+    opacity: 0.65;
+    width: 100vw;
+    height: 91vh;
+}
+
+.infos {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(197, 219, 236);
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.details {
+    font-size: 0.8em;
+}
+
+.info1 {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 20px 80px;
+    text-align: justify;
+}
+
+.img2XIX {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/XIXe/smith.webp);
+    min-height: 100vh;
+}
