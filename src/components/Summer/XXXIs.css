@@ -1,4 +1,4 @@
-.bodyXXs {
+.bodyXXXIs {
     height: 100%;
     margin: 0;
 }
@@ -37,13 +37,12 @@
     text-align: justify;
 }
 
-.img2XX {
+.img2XXXI {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/XXe/otage.webp);
+    background-image: url(../../img/summer/XXXIe/bolt.webp);
     min-height: 100vh;
 }

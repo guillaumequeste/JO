@@ -1,4 +1,4 @@
-.bodyXVIIs {
+.bodyXXVs {
     height: 100%;
     margin: 0;
 }
@@ -37,14 +37,13 @@
     text-align: justify;
 }
 
-.img2XVII {
+.img2XXV {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/XVIIe/formose.webp);
+    background-image: url(../../img/summer/XXVe/redmond.webp);
     min-height: 100vh;
 }
 
@@ -56,32 +55,12 @@
     text-align: justify;
 }
 
-.img3XVII {
+.img3XXV {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../../img/summer/XVIIe/ali.webp);
-    min-height: 100vh;
-}
-
-.info3 {
-    color: #ddd;
-    background-color: #282E34;
-    text-align: center;
-    padding: 20px 80px;
-    text-align: justify;
-}
-
-.img4XVII {
-    position: relative;
-    opacity: 0.65;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(../../img/summer/XVIIe/bikila.webp);
+    background-image: url(../../img/summer/XXVe/dream_team.webp);
     min-height: 100vh;
 }

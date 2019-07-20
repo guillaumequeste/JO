@@ -89,16 +89,16 @@ class Summer extends Component {
                     <Link to="/XXVIs">
                         <img src={require("../../img/summer/XXVIe.png")} alt="XXVIe" className="XXVIe affiche"></img>
                     </Link>
-                    <Link to="/XVIIs">
+                    <Link to="/XXVIIs">
                         <img src={require("../../img/summer/XXVIIe.png")} alt="XXVIIe" className="XXVIIe affiche"></img>
                     </Link>
-                    <Link to="/XVIIIs">
+                    <Link to="/XXVIIIs">
                         <img src={require("../../img/summer/XXVIIIe.png")} alt="XXVIIIe" className="XXVIIIe affiche"></img>
                     </Link>
-                    <Link to="/XIXs">
+                    <Link to="/XXIXs">
                         <img src={require("../../img/summer/XXIXe.png")} alt="XXIXe" className="XXIXe affiche"></img>
                     </Link>
-                    <Link to="/XXs">
+                    <Link to="/XXXs">
                         <img src={require("../../img/summer/XXXe.png")} alt="XXXe" className="XXXe affiche"></img>
                     </Link>
                     <Link to="/XXXIs">
