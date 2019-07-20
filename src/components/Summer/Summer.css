@@ -1,4 +1,312 @@
 .bodySummer {
     min-height: 91vh;
-    background-color: blue;
+}
+
+.piste {
+    opacity: 0.35;
+    width: 100vw;
+    height: 91vh;
+}
+
+.Ie {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 2%;
+}
+
+.IIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 11%;
+}
+
+.IIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 20%;
+}
+
+.IVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 29%;
+}
+
+.Ve {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 38%;
+}
+
+.VIe {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 12%;
+    left: 47%;
+}
+
+.VIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 56%;
+}
+
+.VIIIe {
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    top: 12%;
+    left: 65%;
+}
+
+.IXe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 78%;
+}
+
+.Xe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 12%;
+    left: 87%;
+}
+
+.XIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 2%;
+}
+
+.XIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 11%;
+}
+
+.XIIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 20%;
+}
+
+.XIVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 29%;
+}
+
+.XVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 38%;
+}
+
+.XVIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 47%;
+}
+
+.XVIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 56%;
+}
+
+.XVIIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 33%;
+    left: 65%;
+}
+
+.XIXe {
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    top: 33%;
+    left: 74%;
+}
+
+.XXe {
+    position: absolute;
+    width: 130px;
+    height: 120px;
+    top: 33%;
+    left: 87%;
+}
+
+.XXIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 2%;
+}
+
+.XXIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 11%;
+}
+
+.XXIIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 20%;
+}
+
+.XXIVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 29%;
+}
+
+.XXVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 38%;
+}
+
+.XXVIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 47%;
+}
+
+.XXVIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 56%;
+}
+
+.XXVIIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 65%;
+}
+
+.XXIXe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 74%;
+}
+
+.XXXe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 54%;
+    left: 83%;
+}
+
+.XXXIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 75%;
+    left: 2%;
+}
+
+.XXXIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 75%;
+    left: 11%;
+}
+
+.XXXIIIe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 75%;
+    left: 20%;
+}
+
+.XXXIVe {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 75%;
+    left: 29%;
+}
+
+.affiche:hover {
+    transform: scale(2);
+    transition-duration: 0.5s;
+    z-index: 3;
+}
+
+@media screen and (max-width: 800px) {
+    .piste {
+        display: none;
+    }
+    .bodySummer {
+        background-color: rgba(192, 64, 4, 0.35);
+        height: 100vh;
+    }
+    .Ie {
+        top: 80px;
+        left: 20%;
+        width: 40%;
+    }
+    .IIe {
+        top: 280px;
+        left: 20%;
+        width: 40%;
+    }
+    .IIIe {
+        top: 480px;
+        left: 20%;
+        width: 40%;
+    }
 }
