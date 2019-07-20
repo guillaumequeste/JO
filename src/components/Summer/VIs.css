@@ -1,0 +1,11 @@
+.bodyVIs {
+    min-height: 91vh;
+    background-color: black;
+    display: flex;
+}
+
+.textVI {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}

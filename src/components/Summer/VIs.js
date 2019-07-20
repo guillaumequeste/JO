@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../Header'
+import './VIs.css'
 
 class VIs extends Component {
   
@@ -7,8 +8,8 @@ class VIs extends Component {
         return (
             <div>
                 <Header />
-                <div>
-                    <h1>VIs</h1>
+                <div className="bodyVIs">
+                    <p className="textVI">Jeux attribués à Berlin, Allemagne. Annulés à cause de la Première Guerre mondiale.</p>
                 </div>
             </div>
         )

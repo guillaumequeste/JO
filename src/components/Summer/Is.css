@@ -45,18 +45,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../../img/summer/Ie/ceremonie_ouverture.jpg);
-    min-height: 650px;
+    min-height: 100vh;
 }
 
 .info2 {
-    position: relative;
-}
-
-.info2suite {
     color: #ddd;
     background-color: #282E34;
     text-align: center;
-    padding: 50px 80px;
+    padding: 20px 80px;
     text-align: justify;
 }
 
@@ -68,18 +64,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../../img/summer/Ie/100m.jpg);
-    min-height: 650px;
+    min-height: 100vh;
 }
 
 .info3 {
-    position: relative;
-}
-
-.info3suite {
     color: #ddd;
     background-color: #282E34;
     text-align: center;
-    padding: 50px 80px;
+    padding: 20px 80px;
     text-align: justify;
 }
 
