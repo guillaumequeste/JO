@@ -1,0 +1,95 @@
+.bodyIs {
+    height: 100%;
+    margin: 0;
+}
+
+.img1 {
+    opacity: 0.65;
+    width: 100vw;
+    height: 91vh;
+}
+
+.infos {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(197, 219, 236);
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.details {
+    font-size: 0.8em;
+}
+
+.info1 {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 20px 80px;
+    text-align: justify;
+}
+
+.img2 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/Ie/ceremonie_ouverture.jpg);
+    min-height: 650px;
+}
+
+.info2 {
+    position: relative;
+}
+
+.info2suite {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 50px 80px;
+    text-align: justify;
+}
+
+.img3 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/Ie/100m.jpg);
+    min-height: 650px;
+}
+
+.info3 {
+    position: relative;
+}
+
+.info3suite {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 50px 80px;
+    text-align: justify;
+}
+
+.img4 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/Ie/escrime.jpg);
+    min-height: 100vh;
+}
