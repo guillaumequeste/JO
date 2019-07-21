@@ -9,7 +9,7 @@ class VIs extends Component {
             <div>
                 <Header />
                 <div className="bodyVIs">
-                    <p className="textVI">Jeux attribués à Berlin, Allemagne. Annulés à cause de la Première Guerre mondiale.</p>
+                    <p className="textVI">1916 - Jeux attribués à Berlin, Allemagne. Annulés à cause de la Première Guerre mondiale.</p>
                 </div>
             </div>
         )

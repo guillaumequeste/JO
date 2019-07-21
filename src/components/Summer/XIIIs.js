@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../Header'
+import './XIIIs.css'
 
 class XIIIs extends Component {
   
@@ -7,8 +8,8 @@ class XIIIs extends Component {
         return (
             <div>
                 <Header />
-                <div>
-                    <h1>XIIIs</h1>
+                <div className="bodyXIIIs">
+                    <p className="textXIII">1944 - Jeux attribués à Londres, Royaume-Uni. Annulés à cause de la Seconde Guerre mondiale.</p>
                 </div>
             </div>
         )

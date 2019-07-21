@@ -1,0 +1,11 @@
+.bodyXXXIVs {
+    min-height: 91vh;
+    background-color: rgb(11, 181, 224);
+    display: flex;
+}
+
+.textXXXIV {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}

@@ -1,0 +1,11 @@
+.bodyXIIs {
+    min-height: 91vh;
+    background-color: black;
+    display: flex;
+}
+
+.textXII {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}

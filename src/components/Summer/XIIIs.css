@@ -1,0 +1,11 @@
+.bodyXIIIs {
+    min-height: 91vh;
+    background-color: black;
+    display: flex;
+}
+
+.textXIII {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}
