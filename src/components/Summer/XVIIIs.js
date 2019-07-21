@@ -20,6 +20,7 @@ class XVIIIs extends Component {
                     <span className="details">163 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Yoshinori Sakai, né à Hiroshima le 6 août 1945 allume la vasque olympique. Le Judo et le Volley-ball font leur apparition aux jeux.</p>
                     <p>Professeure d’EPS, la britannique Ann Packer est accueillie en tant que championne olympique par ses élèves. L’athlète britannique Ann Packer est acclamée par ses élèves de l’école pour filles Coombe County après avoir remporté le 800 m aux Jeux olympiques de Tokyo en 1964.</p>
                 </div>
                 <div className="img2XVIII"></div>

@@ -20,6 +20,7 @@ class XXVIs extends Component {
                     <span className="details">271 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Un attentat est perpétré dans le parc olympique : 2 morts et 111 blessés.</p>
                     <p>Malgré sa blessure, Kerri Strug remporte l’or pour les États-Unis aux Jeux d'Atlanta, en 1996. Son coach, Béla Karolyi, a porté l'athlète jusqu'au podium.</p>
                 </div>
                 <div className="img2XXVI"></div>

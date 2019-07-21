@@ -20,6 +20,7 @@ class XXVs extends Component {
                     <span className="details">257 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Participation de Cuba, de la Corée du Nord et de l’Afrique du Sud après de nombreuses années d’absence. L’Allemagne est réunifiée et les 12 nations formant l’ancienne URSS participent sous le nom de l’équipe unifiée.</p>
                     <p>Le père du britannique Derek Redmond l’aide à franchir la ligne d’arrivée en 1992. Le britannique Derek Redmond grimace de douleur tandis que son père l'aide à franchir la ligne d'arrivée du stade olympique de Barcelone, le 3 août 1992. Foudroyé par un claquage lors de son 400 m, l'athlète a tenu à terminer la course, sous les applaudissements du public.</p>
                 </div>
                 <div className="img2XXV"></div>

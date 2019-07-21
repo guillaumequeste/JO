@@ -20,6 +20,7 @@ class XXVIIIs extends Component {
                     <span className="details">301 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Les compétitions de tir à l’arc et les arrivées des marathons eurent lieu dans le stade historique de marbre, le Stade panathénaïque, tandis que le poids hommes et femmes eurent pour cadre prestigieux le site d’Olympie.</p>
                     <p>En pleine course, le brésilien Vanderlei de Lima est entraîné dans la foule par un ancien prêtre irlandais, en 2004. Le brésilien a été attaqué par un spectateur dans les derniers kilomètres du marathon, le 29 août 2004. De Lima, annoncé favori pour l’or, perd vingt secondes mais termine tout de même à la troisième place.</p>
                 </div>
                 <div className="img2XXVIII"></div>

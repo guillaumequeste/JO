@@ -20,6 +20,7 @@ class XXIIs extends Component {
                     <span className="details">203 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Les Jeux sont boycottés par 35 délégations occidentales (dont les États-Unis) pour protester contre l’invasion des troupes soviétiques en Afghanistan.</p>
                     <p>Le polonais Wladyslaw Kozakiewicz fait un bras d’honneur à l’Union soviétique en 1980. Lors des Jeux olympiques de Moscou, l'athlète est constamment sifflé par le public du stade, ce qui ne l'empêche pas d'emporter une médaille d'or en saut à la perche.</p>
                 </div>
                 <div className="img2XXII"></div>

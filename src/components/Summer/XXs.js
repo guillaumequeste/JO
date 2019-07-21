@@ -20,7 +20,7 @@ class XXs extends Component {
                     <span className="details">195 épreuves</span>
                 </div>
                 <div className="info1">
-                    <p>Prise d’otages au village olympique en 1972. L’organisation terroriste Septembre noir a pris en otage et tué 11 membres de l'équipe olympique d'Israël durant les Jeux olympiques de Munich, en 1972.</p>
+                    <p>Neuf athlètes israéliens ainsi qu’un policier sont assassinés le 5 septembre au village Olympique par des terroristes palestiniens lors d’une prise d’otages.</p>
                 </div>
                 <div className="img2XX"></div>
             </div>

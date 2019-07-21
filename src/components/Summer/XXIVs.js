@@ -20,6 +20,7 @@ class XXIVs extends Component {
                     <span className="details">237 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Boycott de 7 pays en faveur de la Corée du Nord. Affaire Ben Johnson, disqualifié pour dopage sur 100m.</p>
                     <p>Une entrée à haut risque aux Jeux olympiques de Séoul en 1988. Un cascadeur entre en parachute dans le stade olympique durant la cérémonie d'ouverture.</p>
                 </div>
                 <div className="img2XXIV"></div>

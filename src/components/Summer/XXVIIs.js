@@ -20,6 +20,7 @@ class XXVIIs extends Component {
                     <span className="details">300 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Premiers tests de dépistage de l’EPO, premiers prélèvements de sang.</p>
                     <p>La Corée du Sud et la Corée du Nord marchent sous un seul drapeau, en 2000. Les porteurs de drapeau Eun-Soon Chung et Jang-Choo Pak mènent l’équipe olympique coréenne, issue du Nord et du Sud, dans un geste de réconciliation, durant la cérémonie d’ouverture des Jeux olympiques de Sydney en 2000.</p>
                 </div>
                 <div className="img2XXVII"></div>

@@ -20,6 +20,7 @@ class XVIIs extends Component {
                     <span className="details">150 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Les Jeux sont retransmis par plus de 100 chaînes de télévision en direct.</p>
                     <p>L'équipe olympique de Formose (Taïwan) proteste en 1960 contre le changement de nom que lui impose le Comité international olympique (CIO). Taïwan est contrainte d'abandonner le nom de République de Chine pour concourir aux Jeux olympiques de Rome, en 1960. La Chine communiste, quant à elle, est sortie du CIO et ne participera pas aux Jeux.</p>
                 </div>
                 <div className="img2XVII"></div>

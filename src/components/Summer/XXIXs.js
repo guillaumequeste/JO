@@ -20,6 +20,7 @@ class XXIXs extends Component {
                     <span className="details">302 épreuves</span>
                 </div>
                 <div className="info1">
+                    <p>Menace de boycott face aux problèmes de minorités ethniques et de droits de l’homme.</p>
                     <p>Le cubain Ángel Valodia Matos frappe l'arbitre aux Jeux de Pékin de 2008. Ángel Valodia Matos met un coup de pied à l’arbitre Chakir Chelbat après avoir perdu le match pour la médaille de bronze en taekwondo dans la catégorie hommes de plus de 80 kg durant les Jeux olympiques de Pékin, le 23 août 2008.</p>
                 </div>
                 <div className="img2XXIX"></div>
