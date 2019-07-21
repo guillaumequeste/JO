@@ -1,0 +1,87 @@
+.bodyVIIs {
+    height: 100%;
+    margin: 0;
+}
+
+.img1VII {
+    opacity: 0.65;
+    width: 100vw;
+    height: 91vh;
+}
+
+.infos {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(197, 219, 236);
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.details {
+    font-size: 0.8em;
+}
+
+.info1 {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 20px 80px;
+    text-align: justify;
+}
+
+.img2VII {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/VIIe/marathon.jpg);
+    min-height: 100vh;
+}
+
+.info2 {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 20px 80px;
+    text-align: justify;
+}
+
+.img3VII {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/VIIe/stade.jpg);
+    min-height: 100vh;
+}
+
+.info3 {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 20px 80px;
+    text-align: justify;
+}
+
+.img4VII {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../img/summer/VIIe/200m.jpg);
+    min-height: 100vh;
+}
