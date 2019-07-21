@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from './Header'
+import './Antiquity.css'
 
 class Antiquity extends Component {
   
@@ -7,8 +8,8 @@ class Antiquity extends Component {
         return (
             <div>
                 <Header />
-                <div>
-                    <h1>Antiquity</h1>
+                <div className="bodyAntiquity">
+                    <p className="textAntiquity">A venir...</p>
                 </div>
             </div>
         )

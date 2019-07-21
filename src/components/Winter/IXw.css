@@ -1,0 +1,11 @@
+.bodyIXw {
+    min-height: 91vh;
+    background-color: rgb(40, 146, 245);
+    display: flex;
+}
+
+.textIXw {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}

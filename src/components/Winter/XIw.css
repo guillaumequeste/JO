@@ -1,0 +1,11 @@
+.bodyXIw {
+    min-height: 91vh;
+    background-color: rgb(40, 146, 245);
+    display: flex;
+}
+
+.textXIw {
+    color: white;
+    margin: auto;
+    padding: 5%;
+}

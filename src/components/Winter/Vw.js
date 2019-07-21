@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../Header'
+import './Vw.css'
 
 class Vw extends Component {
   
@@ -7,8 +8,8 @@ class Vw extends Component {
         return (
             <div>
                 <Header />
-                <div>
-                    <h1>Vw</h1>
+                <div className="bodyVw">
+                    <p className="textVw">A venir...</p>
                 </div>
             </div>
         )
