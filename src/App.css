@@ -103,4 +103,13 @@
     .anneaux {
         display: none;
     }
+    .linkAccueilSummer {
+        font-size: 1em;
+    }
+    .linkAccueilWinter {
+        font-size: 1em;
+    }
+    .linkAccueilAntiquity {
+        font-size: 1em;
+    }
 }

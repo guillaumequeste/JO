@@ -9,7 +9,7 @@ class XXIIIs extends Component {
             <div className="bodyXXIIIs">
                 <Header />
                 <img src={require("../../img/summer/XXIIIe/inglewood.jpg")} alt="inglewood" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXIII">
                     <span className="title">1984</span>
                     <span className="title">Los Angeles, Etats-Unis</span>
                     <span className="details">28 juillet - 12 août</span>

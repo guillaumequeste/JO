@@ -9,7 +9,7 @@ class XVIIIs extends Component {
             <div className="bodyXVIIIs">
                 <Header />
                 <img src={require("../../img/summer/XVIIIe/judo.jpg")} alt="judo" className="img1"></img>
-                <div className="infos">
+                <div className="infosXVIII">
                     <span className="title">1964</span>
                     <span className="title">Tokyo, Japon</span>
                     <span className="details">10 - 24 octobre</span>

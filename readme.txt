@@ -2,3 +2,5 @@
 "react-bootstrap": "^1.0.0-beta.9",
 "react-dom": "^16.8.6",
 "react-router-dom": "^5.0.1",
+
+En css, on peut faire référence à une classe partout dans l'application.

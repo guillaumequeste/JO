@@ -9,7 +9,7 @@ class XIVs extends Component {
             <div className="bodyXIVs">
                 <Header />
                 <img src={require("../../img/summer/XIVe/tamise.jpg")} alt="tamise" className="img1"></img>
-                <div className="infos">
+                <div className="infosXIV">
                     <span className="title">1948</span>
                     <span className="title">Londres, Royaume-Uni</span>
                     <span className="details">29 juillet - 14 août</span>

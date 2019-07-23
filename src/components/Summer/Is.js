@@ -9,7 +9,7 @@ class Is extends Component {
             <div className="bodyIs">
                 <Header />
                 <img src={require("../../img/summer/Ie/stadeAthenes.jpg")} alt="stadeAthenes" className="img1"></img>
-                <div className="infos">
+                <div className="infosI">
                     <span className="title">1896</span>
                     <span className="title">Athènes, Grèce</span>
                     <span className="details">6 - 15 avril</span>

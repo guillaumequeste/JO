@@ -9,7 +9,7 @@ class XXVIIs extends Component {
             <div className="bodyXXVIIs">
                 <Header />
                 <img src={require("../../img/summer/XXVIIe/aquatic_centre.jpg")} alt="aquatic_centre" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXVII">
                     <span className="title">2000</span>
                     <span className="title">Sidney, Australie</span>
                     <span className="details">15 septembre - 1er octobre</span>

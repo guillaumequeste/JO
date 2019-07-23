@@ -9,7 +9,7 @@ class XVIs extends Component {
             <div className="bodyXVIs">
                 <Header />
                 <img src={require("../../img/summer/XVIe/ceremonie.jpg")} alt="ceremonie" className="img1"></img>
-                <div className="infos">
+                <div className="infosXVI">
                     <span className="title">1956</span>
                     <span className="title">Melbourne, Australie</span>
                     <span className="details">22 novembre - 9 décembre</span>

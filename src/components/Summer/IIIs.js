@@ -9,7 +9,7 @@ class IIIs extends Component {
             <div className="bodyIIIs">
                 <Header />
                 <img src={require("../../img/summer/IIIe/club_house.jpg")} alt="club_house" className="img1"></img>
-                <div className="infos">
+                <div className="infosIII">
                     <span className="title">1904</span>
                     <span className="title">Saint-Louis, Etats-Unis</span>
                     <span className="details">1er juillet - 23 novembre</span>

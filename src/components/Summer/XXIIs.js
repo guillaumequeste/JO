@@ -9,7 +9,7 @@ class XXIIs extends Component {
             <div className="bodyXXIIs">
                 <Header />
                 <img src={require("../../img/summer/XXIIe/loujniki.jpg")} alt="loujniki" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXII">
                     <span className="title">1980</span>
                     <span className="title">Moscou, Union Soviétique</span>
                     <span className="details">19 juillet - 3 août</span>

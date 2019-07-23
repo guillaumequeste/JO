@@ -9,7 +9,7 @@ class XXIVs extends Component {
             <div className="bodyXXIVs">
                 <Header />
                 <img src={require("../../img/summer/XXIVe/seoul.jpg")} alt="seoul" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXIV">
                     <span className="title">1988</span>
                     <span className="title">Séoul, Corée du Sud</span>
                     <span className="details">17 septembre - 2 octobre</span>

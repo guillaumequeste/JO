@@ -9,7 +9,7 @@ class XXVIs extends Component {
             <div className="bodyXXVIs">
                 <Header />
                 <img src={require("../../img/summer/XXVIe/stade_centenaire.jpg")} alt="stade_centenaire" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXVI">
                     <span className="title">1996</span>
                     <span className="title">Atlanta, Etats-Unis</span>
                     <span className="details">19 juillet - 4 août</span>

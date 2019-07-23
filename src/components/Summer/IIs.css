@@ -9,9 +9,9 @@
     height: 91vh;
 }
 
-.infos {
+.infosII {
     position: absolute;
-    top: 65%;
+    top: 25%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -141,4 +141,25 @@
     background-size: cover;
     background-image: url(../../img/summer/IIe/corde.jpg);
     min-height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+    .img2II {
+        display: none;
+    }
+    .img3II {
+        display: none;
+    }
+    .img4II {
+        display: none;
+    }
+    .img5II {
+        display: none;
+    }
+    .img6II {
+        display: none;
+    }
+    .img7II {
+        display: none;
+    }
 }

@@ -9,7 +9,7 @@ class XVIIs extends Component {
             <div className="bodyXVIIs">
                 <Header />
                 <img src={require("../../img/summer/XVIIe/defile.jpg")} alt="defile" className="img1"></img>
-                <div className="infos">
+                <div className="infosXVII">
                     <span className="title">1960</span>
                     <span className="title">Rome, Italie</span>
                     <span className="details">25 août - 11 septembre</span>

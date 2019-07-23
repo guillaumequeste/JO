@@ -9,7 +9,7 @@ class IIs extends Component {
             <div className="bodyIIs">
                 <Header />
                 <img src={require("../../img/summer/IIe/velodrome_vincennes.jpg")} alt="velodrome_vincennes" className="img1"></img>
-                <div className="infos">
+                <div className="infosII">
                     <span className="title">1900</span>
                     <span className="title">Paris, France</span>
                     <span className="details">14 mai - 28 octobre</span>

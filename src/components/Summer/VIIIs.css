@@ -9,9 +9,9 @@
     height: 91vh;
 }
 
-.infos {
+.infosVIII {
     position: absolute;
-    top: 65%;
+    top: 25%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -65,4 +65,13 @@
     background-size: cover;
     background-image: url(../../img/summer/VIIIe/rugbyUSA.jpg);
     min-height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+    .img2VIII {
+        display: none;
+    }
+    .img3VIII {
+        display: none;
+    }
 }

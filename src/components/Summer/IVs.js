@@ -9,7 +9,7 @@ class IVs extends Component {
             <div className="bodyIVs">
                 <Header />
                 <img src={require("../../img/summer/IVe/white_city.jpg")} alt="white_city" className="img1"></img>
-                <div className="infos">
+                <div className="infosIV">
                     <span className="title">1908</span>
                     <span className="title">Londres, Royaume-Uni</span>
                     <span className="details">27 avril - 31 octobre</span>

@@ -9,7 +9,7 @@ class XVs extends Component {
             <div className="bodyXVs">
                 <Header />
                 <img src={require("../../img/summer/XVe/ceremonie.jpg")} alt="ceremonie" className="img1"></img>
-                <div className="infos">
+                <div className="infosXV">
                     <span className="title">1952</span>
                     <span className="title">Helsinki, Finlande</span>
                     <span className="details">19 juillet - 3 août</span>

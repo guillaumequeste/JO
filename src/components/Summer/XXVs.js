@@ -9,7 +9,7 @@ class XXVs extends Component {
             <div className="bodyXXVs">
                 <Header />
                 <img src={require("../../img/summer/XXVe/picornell.jpg")} alt="picornell" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXV">
                     <span className="title">1992</span>
                     <span className="title">Barcelone, Espagne</span>
                     <span className="details">25 juillet - 9 août</span>

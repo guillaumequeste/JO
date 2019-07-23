@@ -9,7 +9,7 @@ class XIXs extends Component {
             <div className="bodyXIXs">
                 <Header />
                 <img src={require("../../img/summer/XIXe/azteca.png")} alt="azteca" className="img1"></img>
-                <div className="infos">
+                <div className="infosXIX">
                     <span className="title">1968</span>
                     <span className="title">Mexico, Mexique</span>
                     <span className="details">12 - 27 octobre</span>

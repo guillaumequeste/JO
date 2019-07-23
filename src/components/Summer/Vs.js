@@ -9,7 +9,7 @@ class Vs extends Component {
             <div className="bodyVs">
                 <Header />
                 <img src={require("../../img/summer/Ve/ceremonie.jpg")} alt="ceremonie" className="img1"></img>
-                <div className="infos">
+                <div className="infosV">
                     <span className="title">1912</span>
                     <span className="title">Stockholm, Suède</span>
                     <span className="details">12 mai - 27 juillet</span>

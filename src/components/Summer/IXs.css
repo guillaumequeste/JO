@@ -9,7 +9,7 @@
     height: 91vh;
 }
 
-.infos {
+.infosIX {
     position: absolute;
     top: 65%;
     left: 5%;
@@ -46,4 +46,10 @@
     background-size: cover;
     background-image: url(../../img/summer/IXe/delegation_allemande.jpg);
     min-height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+    .img2IX {
+        display: none;
+    }
 }

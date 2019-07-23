@@ -9,7 +9,7 @@ class IXs extends Component {
             <div className="bodyIXs">
                 <Header />
                 <img src={require("../../img/summer/IXe/stade.jpg")} alt="stade" className="img1"></img>
-                <div className="infos">
+                <div className="infosIX">
                     <span className="title">1928</span>
                     <span className="title">Amsterdam, Pays-Bas</span>
                     <span className="details">17 mai - 12 août</span>

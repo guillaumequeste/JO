@@ -9,7 +9,7 @@ class XXs extends Component {
             <div className="bodyXXs">
                 <Header />
                 <img src={require("../../img/summer/XXe/est.jpg")} alt="est" className="img1"></img>
-                <div className="infos">
+                <div className="infosXX">
                     <span className="title">1972</span>
                     <span className="title">Munich, Allemagne de l'Ouest</span>
                     <span className="details">26 août - 11 septembre</span>

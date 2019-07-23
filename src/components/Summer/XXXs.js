@@ -9,7 +9,7 @@ class XXXs extends Component {
             <div className="bodyXXXs">
                 <Header />
                 <img src={require("../../img/summer/XXXe/ceremonie.jpg")} alt="ceremonie" className="img1XXX"></img>
-                <div className="infos">
+                <div className="infosXXX">
                     <span className="title">2012</span>
                     <span className="title">Londres, Royaume-Uni</span>
                     <span className="details">27 juillet - 12 août</span>

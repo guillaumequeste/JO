@@ -9,9 +9,9 @@
     height: 91vh;
 }
 
-.infos {
+.infosXXII {
     position: absolute;
-    top: 65%;
+    top: 25%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -45,4 +45,10 @@
     background-size: cover;
     background-image: url(../../img/summer/XXIIe/bras.webp);
     min-height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+    .img2XXII {
+        display: none;
+    }
 }

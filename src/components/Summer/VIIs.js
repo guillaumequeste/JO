@@ -9,7 +9,7 @@ class VIIs extends Component {
             <div className="bodyVIIs">
                 <Header />
                 <img src={require("../../img/summer/VIIe/ceremonie.jpg")} alt="ceremonie" className="img1"></img>
-                <div className="infos">
+                <div className="infosVII">
                     <span className="title">1920</span>
                     <span className="title">Anvers, Belgique</span>
                     <span className="details">20 août - 12 septembre</span>

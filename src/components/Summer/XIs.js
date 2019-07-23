@@ -9,7 +9,7 @@ class XIs extends Component {
             <div className="bodyXIs">
                 <Header />
                 <img src={require("../../img/summer/XIe/stade_olympique.jpg")} alt="stade_olympique" className="img1XI"></img>
-                <div className="infos">
+                <div className="infosXI">
                     <span className="title">1936</span>
                     <span className="title">Berlin, Allemagne</span>
                     <span className="details">1 - 16 août</span>

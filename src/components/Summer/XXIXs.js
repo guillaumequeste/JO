@@ -9,7 +9,7 @@ class XXIXs extends Component {
             <div className="bodyXXIXs">
                 <Header />
                 <img src={require("../../img/summer/XXIXe/nid_d_oiseau.jpg")} alt="nid_d_oiseau" className="img1"></img>
-                <div className="infos">
+                <div className="infosXXIX">
                     <span className="title">2008</span>
                     <span className="title">Pékin, Chine</span>
                     <span className="details">8 - 24 août</span>

@@ -9,9 +9,9 @@
     height: 91vh;
 }
 
-.infos {
+.infosIII {
     position: absolute;
-    top: 65%;
+    top: 25%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -84,4 +84,16 @@
     background-size: cover;
     background-image: url(../../img/summer/IIIe/kakousis.jpg);
     min-height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+    .img2III {
+        display: none;
+    }
+    .img3III {
+        display: none;
+    }
+    .img4III {
+        display: none;
+    }
 }

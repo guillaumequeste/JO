@@ -9,7 +9,7 @@ class VIIIs extends Component {
             <div className="bodyVIIIs">
                 <Header />
                 <img src={require("../../img/summer/VIIIe/delegations.jpg")} alt="delegations" className="img1"></img>
-                <div className="infos">
+                <div className="infosVIII">
                     <span className="title">1924</span>
                     <span className="title">Paris, France</span>
                     <span className="details">4 mai - 27 juillet</span>
